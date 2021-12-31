@@ -10,5 +10,5 @@ This project is written in Java, using NetBeans, with the goal of demonstrating:
  Data from a catalogue of star locations is read and used to visually display
  the stars and the constellations they form in the night sky. 
 <br>
-> *“The contemplation of celestial things will make a man both speak and think more sublimely
-and magnificently when he descends to human affairs.” — Cicero*
+ * “The contemplation of celestial things will make a man both speak and think more sublimely
+and magnificently when he descends to human affairs.” — Cicero *
